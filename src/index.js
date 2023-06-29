@@ -96,7 +96,7 @@ function TypeScript(props) {
 }
 
 function Avatar() {
-  return <img className="avatar" src="Zarko.jpg" />;
+  return <img className="avatar" src="Zarko-Avatar.jpg" />;
 }
 
 function Intro() {
